@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "ひかりのディスコ",
+  "base_artist": "CAPSULE",
+  "createdAt": "2026-03-02T20:11:46.042013Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ひかりのディスコ",
+      "artist": "Capsule",
+      "has_synced": true,
+      "path": "select/01_ひかりのディスコ_Capsule.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ひかりのディスコ (Album Mix)",
+      "artist": "CAPSULE",
+      "has_synced": true,
+      "path": "select/02_ひかりのディスコ_(Album_Mix)_CAPSULE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ひかりのディスコ",
+      "artist": "CAPSULE",
+      "has_synced": false,
+      "path": "select/03_ひかりのディスコ_CAPSULE.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ひかりのディスコ (Instrumental)",
+      "artist": "CAPSULE",
+      "has_synced": true,
+      "path": "select/04_ひかりのディスコ_(Instrumental)_CAPSULE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ひかりのディスコ (METRO PULSE Mix)",
+      "artist": "CAPSULE",
+      "has_synced": true,
+      "path": "select/05_ひかりのディスコ_(METRO_PULSE_Mix)_CAPSULE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひかりのディスコ (Album Mix)",
+      "artist": "CAPSULE",
+      "has_synced": false,
+      "path": "select/pl_01_ひかりのディスコ_(Album_Mix)_CAPSULE.txt"
+    }
+  ]
+}
